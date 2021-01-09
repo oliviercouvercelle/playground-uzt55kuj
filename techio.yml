@@ -1,0 +1,16 @@
+title: Exercices CSS
+plan:
+- title: Introduction
+  statement: markdowns/introduction.md
+- title: Base CSS
+  statement: markdowns/ex1.md
+- title: Sélecteurs
+  statement: markdowns/ex2.md
+- title: Finale
+  statement: markdowns/ex3.md
+projects:
+  first-project:
+    root: /html
+    runner:
+      name: php
+      version: latest
