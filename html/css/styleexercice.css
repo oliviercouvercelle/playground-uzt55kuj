@@ -1,0 +1,30 @@
+/* Complétez votre CSS ici */
+article {
+    padding:10px;
+    margin:10px;
+	border:solid;
+    border-radius:25px;
+	background-color:silver;
+}
+p {
+	color:green;
+	font-size:14px;
+}
+h1 {
+    font-size:25px;
+	font-variant:small-caps;
+}
+
+h2 {
+	font-size:20px;
+	font-family:Helvetica;
+}
+
+.maclasse {
+	background-color:grey;
+}
+
+#monid {
+	border:solid;
+	background-color:white;
+}
