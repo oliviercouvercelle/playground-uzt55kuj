@@ -32,9 +32,9 @@ Tous les exercices de cette page utilisent le code HTML ci-après comme base.
 
 Pour cet exercice, il faut compléter le code css pour que
 - Les articles aient une  [couleur de fond](https://www.w3schools.com/css/css_background.asp) "sylver", une [marge intérieure](https://www.w3schools.com/css/css_padding.asp)  et [extérieure](https://www.w3schools.com/css/css_margin.asp) de 10 pixels. 
-- Le tecte des paragraphes aient une couleur [couleur](https://www.w3schools.com/css/css_text.asp) "green" et une [taille](https://www.w3schools.com/css/css_font_size.asp)  de 14px.
+- Le texte des paragraphes aient une couleur [couleur](https://www.w3schools.com/css/css_text.asp) "green" et une [taille](https://www.w3schools.com/css/css_font_size.asp)  de 14px.
 - Les titres de niveau 1 aient une [taille](https://www.w3schools.com/css/css_font_size.asp) de 25 pixels.
-- Les titres de niveau 2 aient une [taille](https://www.w3schools.com/css/css_font_size.asp) de 20 pixels et une police [police](https://www.w3schools.com/css/css_font.asp) "Helvetica".
+- Les titres de niveau 2 aient une [taille](https://www.w3schools.com/css/css_font_size.asp) de 20 pixels et une [police](https://www.w3schools.com/css/css_font.asp) "Helvetica".
 - La classe `maclasse` ait une [couleur de fond](https://www.w3schools.com/css/css_background.asp) "grey".
 - L'élément d'identifiant `monid` une [bordure](https://www.w3schools.com/css/css_border.asp) "solid" et [couleur de fond](https://www.w3schools.com/css/css_background.asp) "white".
 
