@@ -31,12 +31,12 @@ Tous les exercices de cette page utilisent le code HTML ci-après comme base.
 ## Exercice 1
 
 Pour cet exercice, il faut compléter le code css pour que
-- Les articles aient une couleur de fond [tableau](https://www.w3schools.com/tags/tag_table.asp) "sylver", une marge interieure (padding) et extèrieure (margin) de 10 pixels. 
-- Les paragraphes aient une couleur "green" et une taille de 14px.
+- Les articles aient une  [couleur de fond](https://www.w3schools.com/css/css_background.asp) "sylver", une [marge intérieure](https://www.w3schools.com/css/css_padding.asp)  et [extérieure](https://www.w3schools.com/css/css_margin.asp) de 10 pixels. 
+- Le tecte des paragraphes aient une couleur [couleur](https://www.w3schools.com/css/css_text.asp) "green" et une [taille](https://www.w3schools.com/css/css_font_size.asp)  de 14px.
 - Les titres de niveau 1 aient une taille de 25 pixels.
-- Les titres de niveau 2 aient une taille de 20 pixels et une police "Helvetica".
-- La classe `maclasse` ait une couleur de fond "grey".
-- L'élément d'identifiant `monid` une bordure "solid" et couleur de fond "white".
+- Les titres de niveau 2 aient une taille de 20 pixels et une police [police](https://www.w3schools.com/css/css_font.asp) "Helvetica".
+- La classe `maclasse` ait une [couleur de fond](https://www.w3schools.com/css/css_background.asp) "grey".
+- L'élément d'identifiant `monid` une [bordure](https://www.w3schools.com/css/css_border.asp) "solid" et [couleur de fond](https://www.w3schools.com/css/css_background.asp) "white".
 
 @[Exerice 1]({"stubs": ["css/styleexercice.css"], "command": "/bin/bash run.sh base.html css/styleexercice.css css/exercice.css"})
 
