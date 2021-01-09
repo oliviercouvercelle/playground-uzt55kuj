@@ -1,6 +1,6 @@
 /* Complétez votre CSS ici */
 article {
-	border:solid;
+	border-style:solid;
     border-radius:25px;
 }
 p {

@@ -1,6 +1,6 @@
 article {
     padding:[0-9]+px;
-	border:solid;
+	border-style:solid;
 	background-color:(silver|\#C0C0C0);
 }
 
@@ -23,6 +23,6 @@ h2 {
 	background-color:(grey|\#808080);
 }
 \#monid {
-	border:solid;
+	border-style:solid;
 	background-color:(white|\#FFFFFF);
 }
