@@ -1,0 +1,28 @@
+article {
+    padding:[0-9]+px;
+	border:solid;
+	background-color:(silver|\#C0C0C0);
+}
+
+p {
+	^color$:(green|\#00FF00);
+	font-size:14px;
+}
+
+h1 {
+    font-size:25px;
+	font-variant:small-caps;
+}
+
+h2 {
+	font-size:20px;
+	font-family:(Helvetica|helvetica);
+}
+
+\.maclasse {
+	background-color:(grey|\#808080);
+}
+\#monid {
+	border:solid;
+	background-color:(Teal|\#008080);
+}
