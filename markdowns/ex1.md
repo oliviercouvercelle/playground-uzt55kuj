@@ -35,7 +35,7 @@ Pour cet exercice, il faut :
 - Changer la couleur de fond et ajouter une marges intérieure aux éléments de classe `maclasse`
 - Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant `monid`
 
-@[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
+@[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/exercice.css"})
 
 ## Exercice 2
 Pour cet exercice, il faut :
