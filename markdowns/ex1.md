@@ -31,7 +31,7 @@ Tous les exercices de cette page utilisent le code HTML ci-après comme base.
 ## Exercice 1
 
 Pour cet exercice, il faut compléter le code css pour que
-- Les articles aient une couleur de fond "sylver", une marge interieure (padding) et extèrieure (margin) de 10 pixels. 
+- Les articles aient une couleur de fond [tableau](https://www.w3schools.com/tags/tag_table.asp) "sylver", une marge interieure (padding) et extèrieure (margin) de 10 pixels. 
 - Les paragraphes aient une couleur "green" et une taille de 14px.
 - Les titres de niveau 1 aient une taille de 25 pixels.
 - Les titres de niveau 2 aient une taille de 20 pixels et une police "Helvetica".
