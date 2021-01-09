@@ -1,0 +1,11 @@
+^p$ {
+    ^color$:(blue|\#0000FF);
+}
+
+\.maclasse {
+	^color$:(green|\#00FF00);
+}
+
+\#superid {
+	^color$:(red|\#FF0000);
+}
