@@ -30,7 +30,7 @@ Tous les exercices de cette page utilisent le code HTML ci-après comme base.
 
 ## Exercice 1
 
-Pour cet exercice, il faut : 
+Pour cet exercice, il faut : tout chanxger
 - Changer la couleur du texte de tous les paragraphes
 - Changer la couleur de fond et ajouter une marges intérieure aux éléments de classe `maclasse`
 - Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant `monid`
