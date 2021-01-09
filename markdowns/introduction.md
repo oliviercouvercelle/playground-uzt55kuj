@@ -40,7 +40,7 @@ Le code `HTML` suivant existe.
 </article>
 ```
 Il faut faire en sorte de : 
-- Changer la couleur du texte de tous les paragraphes
-- Changer la couleur de fond de tous les titres de niveau 2
+- Changer la [couleur du texte](https://www.w3schools.com/css/css_text.asp) de tous les paragraphes
+- Changer la [couleur de fond](https://www.w3schools.com/css/css_background.asp)  de tous les titres de niveau 2
 
 @[Introduction]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh intro.html css/style.css css/intro.css"})
